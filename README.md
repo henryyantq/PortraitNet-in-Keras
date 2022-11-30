@@ -10,3 +10,9 @@ Accuracy:
 Loss:
 
 ![loss](https://user-images.githubusercontent.com/20149275/204752676-0121c760-c2af-4773-b9e3-7d5360139dd5.png)
+
+The model structure is taken from the original paper:
+
+![image](https://user-images.githubusercontent.com/20149275/204755042-72a3d0a4-21a6-4174-a094-7ab85e5e01c7.png)
+
+*Note that my implementation is for 128x128 RGB images as inputs, rather than 224x224 as is mentioned in the paper, which is only for faster training and inference procedures. If you're familiar with U-Net, MobileNetV2, residual block, etc., the PortraitNet should be easy for you to understand.
