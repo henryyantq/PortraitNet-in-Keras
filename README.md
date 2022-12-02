@@ -1,5 +1,7 @@
 # PortraitNet-in-Keras
-SOURCE CODE UPDATED! This is a Keras implementation of PortraitNet (C&amp;G 2019). Dataset can be download here: [EG1800](https://goo.gs/pqs8e)
+SOURCE CODE UPDATED! Please do not directly copy my work as your homework or graduation design. It's only for kind reference. Thank you!
+
+This is a Keras implementation of PortraitNet (C&amp;G 2019). Dataset can be download here: [EG1800](https://goo.gs/pqs8e)
 
 The visualized accuracy & loss history of my training process (Laptop: AMD Ryzen 7 5800H + RTX 3060 115W + 16GB DDR4 2933MHz):
 
